@@ -15,7 +15,8 @@ DeskLink startet mit Windows im Tray und aktualisiert sich danach automatisch.
 ## Was kann DeskLink?
 
 - Verbinden mit Freunden, jedes Mal mit Nachfrage – oder pro Freund „immer reinlassen“
-- Bildschirm wechseln über das Symbol oben links oder **Strg+Alt+M** / **Strg+Alt+1…9**
+- Bildschirm wechseln über das Symbol oben links oder **Strg+Alt+D** / **Strg+Alt+1…9**
 - **Zeige-Modus** (Strg+Alt+P) und **Klick-Modus** (Strg+Alt+K): eigener Zeiger, die Maus des anderen bleibt
 - Ton (ohne Discord, damit man sich im Call nicht selbst hört), Zwischenablage teilen
+- Trennen mit **Strg+Alt+^**
 - Du bekommst immer eine Meldung, wenn sich jemand mit deinem PC verbindet, und kannst jederzeit trennen (Tray → Alle trennen)
